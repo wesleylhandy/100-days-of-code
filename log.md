@@ -24,3 +24,11 @@
 **Thoughts:** I wanted to solve the passport-twitter and create-react-app issue myself but found it impossible to solve without much further study. I hope to gain better understanding of http methods to be able to build my own express type service from scratch at some point in the future - not for the purpose of reinventing the wheel but for growing in knowledge and experience
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/where-u-at)
+
+### Day 3: January 3, 2018
+
+**Today's Progress**: Moved counter and adding user to state to reducers and actions rather than setting state in React. Begin routing for adding users to going array in db.
+
+**Thoughts:** Moving closer to a final product for this stage of the app. Every little change takes longer to fix since they require decisions on db architecture at a finite level not anticipated at start of project.
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/where-u-at)
