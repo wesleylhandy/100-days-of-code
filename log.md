@@ -32,3 +32,11 @@
 **Thoughts:** Moving closer to a final product for this stage of the app. Every little change takes longer to fix since they require decisions on db architecture at a finite level not anticipated at start of project.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/where-u-at)
+
+### Day 4: January 4, 2018
+
+**Today's Progress**: DB array of going and front-end array of going synced and filted based on date. Added twitter profile image to user. Populated user into going array. Future development to show set of profile images on hover of those going.
+
+**Thoughts:** Honestly, ready to be done, but keep wanted to add features. Want to get list of users who are twitter friends of a given user and display their current choices. Want to allow users to create a list of favorite locations. May not get there for now. Ready to get this operation on Heroku and move on for a bit.
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/where-u-at)
