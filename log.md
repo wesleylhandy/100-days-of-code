@@ -48,3 +48,13 @@
 **Thoughts:** The functionality of the app in the current state is smooth though I struggled immensely in getting the app deployed to heroku. I was not serializing users properly. And the imageUrl from the twitter profile was not coming through properly in production (for some really weird unknown reason!!!!). There is room for more development in the future, but I'm happy where I'm at right now. 
 
 **Link to work:** [Live Application](https://where-u-at.herokuapp.com/)
+
+### Day 6: January 6, 2018
+
+**Today's Progress**: Fixed bug related to yesterday's deployment. I had neglected to update the React Build before deploying, and I found a fix to my profile image issue. I created repository for next FreeCodeCamp challenge - Stock Viewer App. Also, I spend several hours planning with my new business partner for our side business building sites and mobile applications.
+
+**Thoughts:** Logs are key to debugging. And sometimes seeing a log message when you know there shouldn't be one lets you know you neglected to push an important update - in this case, a rebuild of the front end that solved some bugginess. I also didn't give up and found an easy solution for my profile image problem. 
+
+**Link to work:** [Live Application](https://where-u-at.herokuapp.com/)
+
+**Link to work:** [New Repo](https://github.com/wesleylhandy/stock-viewer)
