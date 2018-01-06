@@ -40,3 +40,11 @@
 **Thoughts:** Honestly, ready to be done, but keep wanted to add features. Want to get list of users who are twitter friends of a given user and display their current choices. Want to allow users to create a list of favorite locations. May not get there for now. Ready to get this operation on Heroku and move on for a bit.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/where-u-at)
+
+### Day 5: January 5, 2018
+
+**Today's Progress**: Deployed my long-frustrating twitter app for the FCC backed curriculum!!!
+
+**Thoughts:** The functionality of the app in the current state is smooth though I struggled immensely in getting the app deployed to heroku. I was not serializing users properly. And the imageUrl from the twitter profile was not coming through properly in production (for some really weird unknown reason!!!!). There is room for more development in the future, but I'm happy where I'm at right now. 
+
+**Link to work:** [Live Application](https://where-u-at.herokuapp.com/)
