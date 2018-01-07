@@ -58,3 +58,11 @@
 **Link to work:** [Live Application](https://where-u-at.herokuapp.com/)
 
 **Link to work:** [New Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 7: January 7, 2018
+
+**Today's Progress**: Decided on using [IEX Stocks API](https://iextrading.com/developer/docs/) for the Stocks App. Rather than using Mongoose and setting up Schemas, used `mongodb` package to better mimic Mongo Shell Functions. Also, the backend will not store much data for this project or have user authentication.
+
+**Thoughts:** My plan is to track the date within the state of the application, and update the list of stocks each day from the IEX Api. These stocks will populate a searchable `<select>` element so that users can only search stocks that currently exist and so that stock symbols will be accurate. I will use `socket.io` to update the state of the application across instances and backup the selected stocks in the DB. I am debating on whether or not to also use Redux on the front end of this app as well. I plan on a `create-react-app` front end, using `chart.js` to graphically display stock prices over time.
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
