@@ -66,3 +66,11 @@
 **Thoughts:** My plan is to track the date within the state of the application, and update the list of stocks each day from the IEX Api. These stocks will populate a searchable `<select>` element so that users can only search stocks that currently exist and so that stock symbols will be accurate. I will use `socket.io` to update the state of the application across instances and backup the selected stocks in the DB. I am debating on whether or not to also use Redux on the front end of this app as well. I plan on a `create-react-app` front end, using `chart.js` to graphically display stock prices over time.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 8: January 8, 2018
+
+**Today's Progress**: Refactored api to use version 3.0 of `mongodb` node.js API. Was able to download stock symbols from IEX API and insert into DB and then run an update to insert only new records. 
+
+**Thoughts:** I need to find a faster solution for checking a dataset against the DB and inserting only new records. Currently, I'm checking each individual record to see if it exists in the DB, then creating an array of promises to resolve as a `bulkWrite()` operation on the symbols collection. I'm thinking tomorrow I may choose to get all the records from the DB, stringify the records and compare them to the dataset received from the API, then only update if the two are different, but there has to be a quicker solution.
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
