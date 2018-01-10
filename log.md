@@ -74,3 +74,11 @@
 **Thoughts:** I need to find a faster solution for checking a dataset against the DB and inserting only new records. Currently, I'm checking each individual record to see if it exists in the DB, then creating an array of promises to resolve as a `bulkWrite()` operation on the symbols collection. I'm thinking tomorrow I may choose to get all the records from the DB, stringify the records and compare them to the dataset received from the API, then only update if the two are different, but there has to be a quicker solution.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 9: January 9, 2018
+
+**Today's Progress**: Created CSS only Stock Ticker. Increased efficiency of upserting new records from API into DB.
+
+**Thoughts:** Making steady progress. I expect to be done with this project much more quickly than others. Of course, I could add additional features, but will just aim for project completion for now.
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
