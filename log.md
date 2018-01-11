@@ -82,3 +82,11 @@
 **Thoughts:** Making steady progress. I expect to be done with this project much more quickly than others. Of course, I could add additional features, but will just aim for project completion for now.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 10: January 10, 2018
+
+**Today's Progress**: Integrated Redux and Chart.js. Making steady progress. Objectives seem clear and come to me quickly as I go along. 
+
+**Thoughts:** See the end in sight for version 1. Redux is beautiful! Need to add sockets support for both stock data and across instances of the app.
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
