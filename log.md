@@ -90,3 +90,11 @@
 **Thoughts:** See the end in sight for version 1. Redux is beautiful! Need to add sockets support for both stock data and across instances of the app.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 11: January 11, 2018
+
+**Today's Progress**: Very busy day at work. Got some good reading of articles today, one on decoupling Node.js and Drupal seems exciting for work. Built a couple of pages at work, mainly HTML/CSS. Just tested connecting to IEX API websocket for real-time data on individual stocks. Crashed after sending only a few messages. Not sure why.
+
+**Thoughts:** Just keep coding! One of those busy days where not much personal work got done. Encouraged some folks on twitter though.
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
