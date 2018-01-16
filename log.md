@@ -98,3 +98,11 @@
 **Thoughts:** Just keep coding! One of those busy days where not much personal work got done. Encouraged some folks on twitter though.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 12: January 15, 2018
+
+**Today's Progress**: Another busy work day, but was able to format chart.js and troubleshoot various options for creating custom tooltip for multiple stock listings on a given day.
+
+**Thoughts:** Using someone else's react package leads to limitations when working with the original api. 
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
