@@ -106,3 +106,11 @@
 **Thoughts:** Using someone else's react package leads to limitations when working with the original api. 
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 13: January 16, 2018
+
+**Today's Progress**: Refreshed by some algorithm work and study on React plus dotNet.
+
+**Thoughts:** With so much HTML/CSS at work, It was refreshing to spend a couple of hours solving JavaScript logic problems on CodeWars.
+
+**Link to work:** [Code Wars](https://www.codewars.com/users/wesleylhandy)
