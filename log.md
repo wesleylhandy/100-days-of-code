@@ -114,3 +114,11 @@
 **Thoughts:** With so much HTML/CSS at work, It was refreshing to spend a couple of hours solving JavaScript logic problems on CodeWars.
 
 **Link to work:** [Code Wars](https://www.codewars.com/users/wesleylhandy)
+
+### Day 14: January 17, 2018
+
+**Today's Progress**: Moving towards managing state across instances with websockets. Events will trigger local changes via redux.
+
+**Thoughts:** Using indexes of arrays as keys when mapping lists of components leads to problems removing last element from the list. Also, struggling with how to handle unmounting of components connected to socket.
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
