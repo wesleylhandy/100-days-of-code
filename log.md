@@ -128,3 +128,11 @@
 **Today's Progress**: Busy day at work chasing down source of Malware attack. Read thousands of lines of code looking for bad actors. So this evening, I treated myself to Wes Bos's new course CSS GRID. Completed 6 videos.
 
 **Thoughts:** jQuery is a mess, especially older versions with many being susceptible to XSS attacks. Wish our code base at work was better managed and overseen. CSS Grid is flat out awesome. I'm going to look for ways to integrate it into my work. I need to figure out how to work with older browsers that lack CSS Grid support.
+
+### Day 16: January 19, 2018
+
+**Today's Progress**: Near end of development for stage one of my stock ticker app. Still need to solve issue with deleting a stock and unmounting the stock card and closing the websocket. As of now, I can delete one stock, which then causes the websockets to crash for the whole application.
+
+**Thoughts:** Made quick progress on adding more to redux actions and reducers, updating state api, and calls to state db model. Felt good after a couple of days break from this project.
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
