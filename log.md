@@ -122,3 +122,9 @@
 **Thoughts:** Using indexes of arrays as keys when mapping lists of components leads to problems removing last element from the list. Also, struggling with how to handle unmounting of components connected to socket.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 15: January 18, 2018
+
+**Today's Progress**: Busy day at work chasing down source of Malware attack. Read thousands of lines of code looking for bad actors. So this evening, I treated myself to Wes Bos's new course CSS GRID. Completed 6 videos.
+
+**Thoughts:** jQuery is a mess, especially older versions with many being susceptible to XSS attacks. Wish our code base at work was better managed and overseen. CSS Grid is flat out awesome. I'm going to look for ways to integrate it into my work. I need to figure out how to work with older browsers that lack CSS Grid support.
