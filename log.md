@@ -136,3 +136,11 @@
 **Thoughts:** Made quick progress on adding more to redux actions and reducers, updating state api, and calls to state db model. Felt good after a couple of days break from this project.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 17: January 20, 2018
+
+**Today's Progress**: Solved websocket issue by removing componentwillreceiveprops and componentwillunmount lifecycle events. These were unnecessasry and I was unnecessarily closing my front-end sockets.
+
+**Thoughts:** Almost didn't code today due to other commitments. But a quick 45 minutes before bed worked wonders on my progress. I am for the most part done with this app for now. Will add finishing touches tomorrow.
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
