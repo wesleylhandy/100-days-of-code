@@ -144,3 +144,11 @@
 **Thoughts:** Almost didn't code today due to other commitments. But a quick 45 minutes before bed worked wonders on my progress. I am for the most part done with this app for now. Will add finishing touches tomorrow.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 18: January 21, 2018
+
+**Today's Progress**: Styled for responsiveness and worked with Chart.js options to get full date to display on tooltip.
+
+**Thoughts:** The `react-chartjs-2` npm package is great for getting simple charts off the ground easily, but it is difficult to work with the options. As I get stronger with both React and Chart.js I will consider making a pull request to help improve the ability to customize chart options.
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
