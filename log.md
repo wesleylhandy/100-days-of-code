@@ -152,3 +152,13 @@
 **Thoughts:** The `react-chartjs-2` npm package is great for getting simple charts off the ground easily, but it is difficult to work with the options. As I get stronger with both React and Chart.js I will consider making a pull request to help improve the ability to customize chart options.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 19: January 22, 2018
+
+**Today's Progress**: Solved Tooltip Issues!!! Deployed to Heroku!!!
+
+**Thoughts:** See the [README for my Stock View App](https://github.com/wesleylhandy/stock-viewer/blob/master/README.md) for details 
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+**Link to APP:** [LIVE APP](https://stockviewz.herokuapp.com/)
