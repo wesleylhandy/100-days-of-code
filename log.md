@@ -152,3 +152,11 @@
 **Thoughts:** The `react-chartjs-2` npm package is great for getting simple charts off the ground easily, but it is difficult to work with the options. As I get stronger with both React and Chart.js I will consider making a pull request to help improve the ability to customize chart options.
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+### Day 19: January 30, 2018
+
+**Today's Progress**: Started a tutorial on GraphQL and set up the front and back end in preparation for making queries. 
+
+**Thoughts**: I'm excited about learning GraphQL and how it will help solve some issues with load time caused by extraneous data.
+
+**Link to work**: [Repo](https://github.com/wesleylhandy/react-apollo-graphql-tutorial-app)
