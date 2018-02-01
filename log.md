@@ -160,3 +160,11 @@
 **Thoughts**: I'm excited about learning GraphQL and how it will help solve some issues with load time caused by extraneous data.
 
 **Link to work**: [Repo](https://github.com/wesleylhandy/react-apollo-graphql-tutorial-app)
+
+### Day 20: January 31, 2018
+
+**Today's Progress**: Busy work day, but completed more CSS grid tutorials and began a project for scraping RSS feed and displaying using CSS grid, just from the front end at this time. In the future, would be a good use-case for GraphQL 
+
+**Thoughts**: I'm glad to have gotten more projects at work
+
+**Link to work**: [Repo](https://github.com/wesleylhandy/rss)
