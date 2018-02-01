@@ -153,7 +153,17 @@
 
 **Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
 
-### Day 19: January 30, 2018
+### Day 19: January 22, 2018
+
+**Today's Progress**: Solved Tooltip Issues!!! Deployed to Heroku!!!
+
+**Thoughts:** See the [README for my Stock View App](https://github.com/wesleylhandy/stock-viewer/blob/master/README.md) for details 
+
+**Link to work:** [Repo](https://github.com/wesleylhandy/stock-viewer)
+
+**Link to APP:** [LIVE APP](https://stockviewz.herokuapp.com/)
+
+### Day 20: January 30, 2018
 
 **Today's Progress**: Started a tutorial on GraphQL and set up the front and back end in preparation for making queries. 
 
@@ -161,7 +171,7 @@
 
 **Link to work**: [Repo](https://github.com/wesleylhandy/react-apollo-graphql-tutorial-app)
 
-### Day 20: January 31, 2018
+### Day 21: January 31, 2018
 
 **Today's Progress**: Busy work day, but completed more CSS grid tutorials and began a project for scraping RSS feed and displaying using CSS grid, just from the front end at this time. In the future, would be a good use-case for GraphQL 
 
